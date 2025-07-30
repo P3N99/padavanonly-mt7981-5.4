@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: RUN IN BRANCH 23.05! JCG Q30PRO Build immortalwrt23.05 Latest Passwall+Xray
+name: Build immortalwrt 24.10 for komi-a31
 
 on:
   repository_dispatch:

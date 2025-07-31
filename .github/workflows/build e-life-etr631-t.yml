@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: Build immortalwrt 24.10 for komi-a31
+name: Build immortalwrt 24.10 for e-life-etr631-t
 
 on:
   repository_dispatch:
@@ -20,7 +20,7 @@ env:
   REPO_URL: https://github.com/padavanonly/immortalwrt-mt798x-6.6
   REPO_BRANCH: 2410
   FEEDS_CONF: feeds.conf.default
-  CONFIG_FILE: configs/komi-a31.config
+  CONFIG_FILE: configs/e-life-etr631-t.config
   DIY_SH: diy.sh
   UPLOAD_BIN_DIR: false
   UPLOAD_FIRMWARE: true
